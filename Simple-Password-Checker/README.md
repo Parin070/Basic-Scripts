@@ -2,7 +2,7 @@
 
 A Python-based password strength checker that evaluates passwords across multiple criteria and returns a final strength score.
 
-> ⚠️ Educational purposes only. This tool does not store or transmit passwords.
+> Educational purposes only. This tool does not store or transmit passwords.
 
 ## How it Works
 
@@ -24,13 +24,13 @@ Final score is the average of all 5 criteria.
 
 ## How to Run
 ```bash
-python3 password_checker.py
+python3 password.py
 ```
 
 Then enter your password when prompted.
 
 ## Known Limitations
 
-- ❌ No dictionary attack protection — common passwords like `Password123!` may score high despite being easily crackable
-- ❌ No entropy calculation
-- ❌ Score is based on character composition only, not actual strength against brute force
+-  No dictionary attack protection — common passwords like `Password123!` may score high despite being easily crackable
+-  No entropy calculation
+-  Score is based on character composition only, not actual strength against brute force
