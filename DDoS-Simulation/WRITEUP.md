@@ -31,7 +31,7 @@ python3 ddos_script.py
 ## Results
 
 ### Packet Flood
-Packet count jumped from ~24 packets to **155,000+ packets in just over 1 minute**.
+Packet count jumped from just ~24 packets to **155,000+ packets in just over 1 minute**.
 
 ![Packet count: 24](assets/initial.png)
 ![Packet count: 158501](assets/final.png)
