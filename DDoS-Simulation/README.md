@@ -27,7 +27,7 @@ Enter `127.0.0.1` as the target and `8080` as the port for local testing.
 
 ## Testing
 
-Tested locally on Kali Linux using a Python HTTP server as the target. Traffic was captured and analyzed in Wireshark on the loopback interface. Packet count jumped from ~24 packets to 155,000+ in under 30 seconds.
+Tested locally on Kali Linux using a Python HTTP server as the target. Traffic was captured and analyzed in Wireshark on the loopback interface. Packet count jumped from ~24 packets to 155,000+ in just over 1 minute.
 
 See `WRITEUP.md` for full testing documentation and Wireshark analysis.
 
