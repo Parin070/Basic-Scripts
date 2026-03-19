@@ -2,7 +2,7 @@
 
 A fast Python-based port scanner that checks 100 commonly used ports using multithreading.
 
-> ⚠️ Educational purposes only. Only scan systems you own or have explicit permission to test. Unauthorized port scanning may be illegal.
+>  Educational purposes only. Only scan systems you own or have explicit permission to test. Unauthorized port scanning may be illegal.
 
 ## How it Works
 
@@ -33,6 +33,6 @@ scanme.nmap.org
 
 ## Known Limitations
 
-- ❌ TCP only — no UDP scanning
-- ❌ No banner grabbing or service detection
-- ❌ Contains a predefined list of 100 commonly used ports for testing purposes — edit `portList` in the script to add more ports as needed
+-  TCP only — no UDP scanning
+-  No banner grabbing or service detection
+-  Contains a predefined list of 100 commonly used ports for testing purposes — edit `portList` in the script to add more ports as needed
