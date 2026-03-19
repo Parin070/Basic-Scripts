@@ -24,7 +24,7 @@ Final score is the average of all 5 criteria.
 
 ## How to Run
 ```bash
-python3 password_checker.py
+python3 password.py
 ```
 
 Then enter your password when prompted.
