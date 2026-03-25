@@ -20,7 +20,7 @@ Final score is the average of all 5 criteria.
 |-------|--------|
 | 8–10 | You are secure!! |
 | 5–8 | Could be better! |
-| 0–5 | You are cooked 🥀 |
+| 0–5 | Not safe! |
 
 ## How to Run
 ```bash
