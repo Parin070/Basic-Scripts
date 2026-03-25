@@ -107,5 +107,5 @@ if score >= 8:
 elif score > 5 and score <8:
     print("Could be better!")
 else:
-    print("You are cooked🥀") 
+    print("Not safe!") 
 
