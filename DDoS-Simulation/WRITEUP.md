@@ -41,8 +41,8 @@ Packet count jumped from just ~24 packets to **155,000+ packets in just over 1 m
 - Hundreds of simultaneous HTTP GET requests from 500 threads
 - Server struggled to handle the volume of incoming connections
 
-![Wireshark Analysis 02](assets\wireshark01.png)
-![Wireshark Analysis 01](assets\wireshark02.png)
+![Wireshark Analysis 02](assets/wireshark01.png)
+![Wireshark Analysis 01](assets/wireshark02.png)
 
 ## Observations
 - 500 threads generating continuous TCP connections created significant load almost instantly
